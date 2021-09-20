@@ -7,4 +7,4 @@ junção de tabelas (joins) e subqueries, sendo apresentado em seguida os comand
 
 # Capítulo 2 - PL/SQL
 
-# Capítulo 3 - Adminsitração de banco de dados
+# Capítulo 3 - Administração de banco de dados
