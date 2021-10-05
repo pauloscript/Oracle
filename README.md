@@ -8,3 +8,4 @@ junção de tabelas (joins) e subqueries, sendo apresentado em seguida os comand
 # Capítulo 2 - PL/SQL
 
 # Capítulo 3 - Administração de banco de dados
+Instalação e configuração do Oracle Database 19c no Oracle Linux 7. Visão Geral da arquitetura do banco de dados Oracle. Gerenciamento da Instância.... (em andamento).
